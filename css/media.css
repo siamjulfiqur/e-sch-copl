@@ -1,0 +1,248 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header start */
+.logo {
+    width: 90%;
+}
+
+.menu ul li a {
+    padding: 5px 5px!important;
+}
+
+.s-btn {
+    margin-top: 5px !important;
+    margin-left: 5px !important;
+}
+/* slider */
+.s-img {
+    margin: 0 20px 0 20px;
+    padding-bottom: 30px;
+}
+.s-text {
+    text-align: center;
+}
+.h1 {
+    padding: 0 0px 0 0px;
+}
+.p2 {
+    padding: 0 0px 0 0px;
+    color: #000;
+    margin-bottom: 15px;
+    line-height: 30px;
+}
+.slider {
+    padding-bottom: 50px;
+}
+/* feature start */
+.c-p {
+    padding-bottom: 60px;
+}
+/* course start */
+.c-h1{
+    font-size: 30px;
+    font-weight: 500;
+  }
+.s-single{
+    margin: 40px 0px 0;
+    padding: 20px 15px 25px;
+}
+.c-left ul li img, .c-right ul li img{
+    width: 20px;
+}
+.c-left ul li span, .c-right ul li span{
+    font-weight: 400}
+
+.uli:not(:last-child) {
+    margin-right: 0;
+}
+/* testimony */
+.t-img {
+    padding: 0 80px 20px;
+}
+.t-item {
+    margin-top: 40px;
+}
+.testimony {
+    padding-bottom: 60px;
+}
+.t-text {
+    text-align: center;
+}
+/* footer top start  */
+.footer-top {
+    text-align: center;
+    padding: 55px 0 20px;
+}
+.ft-p {
+    margin-bottom: 35px;
+    padding-right: 0px;
+}
+.ft-links {
+    margin-bottom: 35px;
+}
+
+
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menu ul li a {
+        padding: 5px 5px!important;
+    }
+    .s-btn {
+        margin-top: 5px !important;
+        margin-left: 5px !important;
+    }
+/* slider */
+.s-img {
+    margin: 0 20px 0 20px;
+    padding-bottom: 30px;
+}
+.s-text {
+    text-align: center;
+}
+.h1 {
+    padding: 0 50px 0 50px;
+}
+.p2 {
+    padding: 0 45px 0 55px;
+    color: #000;
+    margin-bottom: 15px;
+    line-height: 30px;
+}
+.slider {
+    padding-bottom: 55px;
+}
+/* feature start */
+.c-p {
+    padding-bottom: 60px;
+}
+/* course start */
+.c-h1{
+    font-size: 30px;
+    font-weight: 500;
+  }
+  .s-single {
+    margin: 40px 60px 0;
+}
+/* testimony */
+.t-img {
+    padding: 0 120px 20px;
+}
+.t-item {
+    margin-top: 40px;
+}
+.testimony {
+    padding-bottom: 60px;
+}
+.t-text {
+    text-align: center;
+}
+/* footer top start  */
+.footer-top{
+    text-align: center;
+}
+.ft-p {
+    margin-bottom: 30px;
+    padding-right: 80px;
+    padding-left: 70px;
+}
+
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start */
+.menu ul li a {
+    padding: 5px 5px!important;
+}
+.s-btn {
+    margin-top: 5px !important;
+    margin-left: 5px !important;
+}
+/* slider */
+.s-img {
+    padding-bottom: 30px;
+}
+.s-text {
+    text-align: center;
+}
+.h1 {
+    padding: 0 81px 0 81px;
+}
+.p2 {
+    padding: 0 100px 0 101px;
+    color: #000;
+    margin-bottom: 15px;
+    line-height: 30px;
+}
+.slider {
+    padding-bottom: 55px;
+}
+/* feature start */
+.c-p {
+    padding-bottom: 80px;
+}
+/* course start */
+.s-single {
+    margin: 40px 120px 0;
+}
+
+/* testimony */
+.t-item {
+    margin-top: 40px;
+}
+/* footer top start  */
+.footer-top{
+    text-align: center;
+}
+.ft-p {
+    margin-bottom: 30px;
+    padding-right: 90px;
+    padding-left: 90px;
+}
+
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .h1 {
+        padding: 0 40px 0 0;
+    }
+    /* course */
+    .s-single{
+        padding: 20px 15px 25px;
+        font-size: 15px;
+    }
+
+    .c-left ul li img, .c-right ul li img{
+        width: 20px;
+    }
+    .c-left ul li span, .c-right ul li span{
+        font-weight: 400}
+
+    .uli:not(:last-child) {
+        margin-right: 0;
+    }
+
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+    .h1 {
+        padding: 0 40px 0 0;
+    }
+ }
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+/* feature start */
+.f-content{
+    padding: 60px 0 50px;
+}
+/* footer top */
+.ft-p {
+    padding-right: 130px;
+}
+}
+
